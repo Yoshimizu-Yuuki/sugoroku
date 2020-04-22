@@ -1,0 +1,2 @@
+# sugoroku
+双六
